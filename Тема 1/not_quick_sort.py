@@ -1,5 +1,3 @@
-from random import *
-
 def not_quick_sort(n):
     if n == 1:
         return [1]
