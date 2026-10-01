@@ -25,7 +25,7 @@ YES
 YES
 NO
 ```
-[Решение](binary search.py)
+[Решение](binarysearch.py)
 ---
 
 # Приближенный двоичный поиск
