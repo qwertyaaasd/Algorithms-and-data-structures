@@ -2,3 +2,5 @@
 ---
 ## Тема 1. Сортировки
 * [Задачи](https://github.com/qwertyaaasd/Algorithms-and-data-structures/blob/main/Тема%201/README.md)
+## Тема 2. Бинарный поиск
+* [Задачи](Тема%202/README.md)
