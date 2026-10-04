@@ -1,5 +1,4 @@
 def good(a, k, b, m, x, mid):
-    # print((a+b)*mid - (mid//k * a) - (mid//m * b))
     return ((a+b)*mid - (mid//k * a) - (mid//m * b)) >= x
         
 
