@@ -9,8 +9,6 @@ for el in lst:
     if stack and el != stack[-1][0] and stack[-1][1] >= 3:
         color, cnt = stack.pop()
         total += cnt
-        # if stack and stack[-1][0] == color:
-        #     stack[-1][1] += cnt
 
     if stack and stack[-1][0] == el:
         stack[-1][1] += 1
