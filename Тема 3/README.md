@@ -274,6 +274,7 @@ bye
 
 ### Примеры
 <img width="632" height="267" alt="Снимок экрана 2026-10-18 212217" src="https://github.com/user-attachments/assets/3e50dc4f-71f8-49cd-9293-289dd2c4175e" />
+
 [Решение](trains.py)
 ---
 
