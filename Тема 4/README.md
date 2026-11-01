@@ -137,7 +137,7 @@ EXTRACT
 7
 CANNOT
 ```
-[Решение](heap_max.py)
+[Решение](heapq.py)
 ---
 
 # Коммерческий калькулятор
@@ -169,7 +169,7 @@ CANNOT
 ``` py
 0.10
 ```
-[Решение](calculator.py)
+[Решение](capitalism_calculator.py)
 ---
 
 # Таможня
@@ -211,7 +211,7 @@ CANNOT
 ``` py
 3
 ```
-[Решение](customs.py)
+[Решение](cust.py)
 ---
 
 # Вычислительная ихтиология
