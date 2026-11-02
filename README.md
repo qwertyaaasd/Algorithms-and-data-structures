@@ -8,3 +8,5 @@
 * [Условия заданий](https://github.com/qwertyaaasd/Algorithms-and-data-structures/blob/main/Тема%203/README.md)
 ## Тема 4. Куча
 * [Условия заданий](https://github.com/qwertyaaasd/Algorithms-and-data-structures/blob/main/Тема%204/README.md)
+## Курсовая работа
+* [readme файл](https://github.com/qwertyaaasd/Algorithms-and-data-structures/blob/main/Курсовая%20работа/README.md)
