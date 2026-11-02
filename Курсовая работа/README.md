@@ -1,5 +1,5 @@
 # Теоретическая часть
-* [Дерево Фенвика]((https://github.com/qwertyaaasd/Algorithms-and-data-structures/blob/main/Курсовая%20работа/Дерево%20Фенвика.docx))
+* [Дерево Фенвика](https://github.com/qwertyaaasd/Algorithms-and-data-structures/blob/main/Курсовая%20работа/Дерево%20Фенвика.docx)
 ---
 ## Реализация структуры дерева Фенвика
 * [Для 0-индексации](fenwick_tree_0_indexing.py)
